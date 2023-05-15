@@ -1,0 +1,1 @@
+can you please evaluate the following transcript for important terms, ideas , and give a simple demonstration of the concepts for review?
