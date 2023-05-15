@@ -1,4 +1,4 @@
-This transcript covers the topic of route handling in Express.js, a popular web application framework for Node.js. Here are the important terms and ideas highlighted:
+
 
 1. **Express Server**: The server created using Express.js, which listens for incoming HTTP requests.
 
